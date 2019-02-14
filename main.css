@@ -1,0 +1,155 @@
+body{
+    background-color: aquamarine;
+}
+.head{
+    background-color: darkslategrey;
+    /* width: 1335px;
+    height: 60px; */
+    width: 1335px;
+    height: 165px;
+} 
+.white-text-1{
+    color: whitesmoke;
+    text-align: center;
+}
+.white-text-2{
+    color: whitesmoke;
+    text-align: center;
+}
+.white-text-3{
+    color: whitesmoke;
+    text-align: end;
+}
+
+.facebook{
+    float: right;
+    margin-right: 1px;
+}
+.twitter{
+    float: right;
+    margin-right: 1px;
+}
+.youtube{
+    float: right;
+    margin-right: 1px;
+}
+.instagram{
+    float: right;
+    margin-right: 1px;
+}
+.nav{
+    background-color: peru;
+    /* width: 2000px; */
+}
+.main-title{
+    color: rgba(255, 0, 43, 0.836);
+    font-family: lobster, 'sans-sarif';
+    text-align: center;
+}
+#home{
+    align-content: left;
+}
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+  
+.dropbtn{
+    padding: 10px;
+}
+  
+.dropdown-content{
+    display: none;
+    position: absolute;
+}
+  
+.dropdown:hover .dropdown-content{
+    display:block;
+}
+.dropdown-2{
+    position: relative;
+    display: inline-block;
+}
+  
+  .dropbtn{
+    padding: 10px;
+}
+  
+  .dropdown-content{
+    display: none;
+    position: absolute;
+}
+  
+  .dropdown:hover .dropdown-content{
+    display:block;
+}
+
+#logo{
+    border-radius: 50%;
+    height: 125px;
+    width: 150px;
+    float: center, left;
+}
+
+.headeritems{
+    margin-left: 50%;
+}
+
+.headeritems li{
+    display: inline-block;
+    margin: 0.3em;
+}
+
+.navtitle{
+    text-align: center;
+}
+
+.button li {
+    display: inline-block;
+    margin-top: 5%;
+}
+
+.button{
+    margin-left: 0.3em;
+}
+
+.missiondiv{
+    background-color: white;
+    border: solid 1px black;
+    width: 45%;
+    /* margin-top: 2%; */
+    /* padding-block-start: 3%; */
+    display: inline-block;
+    height: 473px;
+}
+
+.column{
+    margin: 0 auto;
+}
+.adoptionhour{
+    float: left;
+}
+.clinic{
+    float: left;
+    height: 85%;
+    width: 50%;
+}
+.container{
+    display: inline-block;
+    text-align: left;
+}
+#footer{
+    text-align: center;
+}
+#legal{
+    float: left; 
+}
+#helpfullinks{
+    float: center;
+}
+#subscribe{
+    float: right;
+}
+#title{
+    float:  top,center;
+}
